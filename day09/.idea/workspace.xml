@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32fc5440-dc93-457d-9061-e8dfe5ed1f92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day11/book.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/exception/NotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
